@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="external_storage" path="." />
+    <!-- Includes removable storage volumes under /storage. -->
+    <root-path name="storage_volumes" path="storage/" />
+    <files-path name="files" path="." />
+    <cache-path name="cache" path="." />
+</paths>
